@@ -7,4 +7,6 @@
 
 ## 相关阅读
 
-[CSDN: 利用Matlab进行相机标定并使用openCV进行简单三维重建](https://blog.csdn.net/qq_40491305/article/details/102705892?spm=1001.2014.3001.5502)
+1. [CSDN: 利用Matlab进行相机标定并使用openCV进行简单三维重建](https://blog.csdn.net/qq_40491305/article/details/102705892?spm=1001.2014.3001.5502)
+
+2. [安装OpenCV和opencv_contrib提示缺少boostdesc_bgm.i文件或者opencv2/xfeatures2d/cuda.hpp不存在](https://blog.csdn.net/qq_40491305/article/details/102687489?spm=1001.2014.3001.5502)
